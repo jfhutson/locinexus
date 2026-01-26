@@ -5,7 +5,7 @@ author: John Calvin
 edition: 1559 Latin
 language: la
 
-books:
+parts:
   - id: book_1
     title:
       en: Book I: Of the Knowledge of God the Creator
