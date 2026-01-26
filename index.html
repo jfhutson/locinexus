@@ -1,0 +1,12 @@
+---
+layout: default
+title: Home
+---
+<h1>Welcome to the Theological Syntopticon</h1>
+<p>Explore the works below:</p>
+
+<ul>
+{% for work in site.data.works %}
+  <li><a href="{{ '/works/' | append: work.id | relative_url }}">{{ work.title }}</a> by {{ work.author }}</li>
+{% endfor %}
+</ul>
