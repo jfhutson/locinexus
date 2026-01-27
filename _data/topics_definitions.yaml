@@ -740,6 +740,10 @@ topics:
         name: Church Discipline
         description: Correction and excommunication
       
+      - id: papacy
+        name: Papacy
+        description: The office and authority of the Pope
+      
       - id: communion-of-saints
         name: Communion of Saints
         description: Unity of believers across time and space
@@ -1015,6 +1019,9 @@ topics:
           - id: punishment
             name: Punishment
             description: Capital punishment, vindictive justice
+          - id: church-and-state
+            name: Church and State
+            description: Relationship between religious and civil authority
 
   - id: ascetical-theology
     name: Ascetical and Mystical Theology
@@ -1094,6 +1101,10 @@ topics:
     name: Liturgical Theology
     description: The Church's worship
     children:
+      - id: worship
+        name: Worship
+        description: The adoration and service of God
+      
       - id: mass
         name: The Mass
         description: The Eucharistic liturgy
