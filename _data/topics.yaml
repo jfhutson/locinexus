@@ -1,5 +1,3 @@
-work_id: institutes-1559
-
 assignments:
   # Book 1: Of the Knowledge of God the Creator
   - section_id: inst1559_1_1
@@ -444,3 +442,579 @@ assignments:
     topics:
       - human-law
       - church-and-state
+
+  - section_id: summa_1_1
+    topics:
+      - scripture
+      - special-revelation
+      - nature-of-faith
+  
+  - section_id: summa_1_2
+    topics:
+      - existence-of-god
+      - cosmological-argument
+      - teleological-argument
+  
+  - section_id: summa_1_3
+    topics:
+      - divine-simplicity
+      - nature-of-god
+  
+  - section_id: summa_1_4
+    topics:
+      - nature-of-god
+      - divine-goodness
+  
+  - section_id: summa_1_5
+    topics:
+      - divine-goodness
+  
+  - section_id: summa_1_6
+    topics:
+      - divine-goodness
+  
+  - section_id: summa_1_7
+    topics:
+      - divine-infinity
+      - nature-of-god
+  
+  - section_id: summa_1_8
+    topics:
+      - divine-omnipresence
+      - nature-of-god
+  
+  - section_id: summa_1_9
+    topics:
+      - divine-immutability
+      - nature-of-god
+  
+  - section_id: summa_1_10
+    topics:
+      - divine-eternity
+      - nature-of-god
+  
+  - section_id: summa_1_11
+    topics:
+      - unity-of-god
+      - nature-of-god
+  
+  - section_id: summa_1_12
+    topics:
+      - divine-knowledge
+      - beatific-vision
+  
+  - section_id: summa_1_13
+    topics:
+      - nature-of-god
+      - divine-truth
+  
+  - section_id: summa_1_14
+    topics:
+      - divine-omniscience
+      - divine-knowledge
+  
+  - section_id: summa_1_15
+    topics:
+      - divine-ideas
+      - divine-knowledge
+  
+  - section_id: summa_1_16
+    topics:
+      - divine-truth
+  
+  - section_id: summa_1_17
+    topics:
+      - divine-truth
+  
+  - section_id: summa_1_18
+    topics:
+      - nature-of-god
+  
+  - section_id: summa_1_19
+    topics:
+      - divine-will
+  
+  - section_id: summa_1_20
+    topics:
+      - divine-love
+  
+  - section_id: summa_1_21
+    topics:
+      - divine-justice
+      - divine-mercy
+  
+  - section_id: summa_1_22
+    topics:
+      - divine-providence
+  
+  - section_id: summa_1_23
+    topics:
+      - predestination
+      - election
+  
+  - section_id: summa_1_24
+    topics:
+      - book-of-life
+      - predestination
+  
+  - section_id: summa_1_25
+    topics:
+      - divine-omnipotence
+  
+  - section_id: summa_1_26
+    topics:
+      - divine-beatitude
+  
+  # Questions 27-43: The Trinity
+  - section_id: summa_1_27
+    topics:
+      - trinity
+      - trinity-processions
+  
+  - section_id: summa_1_28
+    topics:
+      - trinity
+      - trinity-relations
+  
+  - section_id: summa_1_29
+    topics:
+      - trinity
+      - trinity-persons
+  
+  - section_id: summa_1_30
+    topics:
+      - trinity
+      - trinity-persons
+  
+  - section_id: summa_1_31
+    topics:
+      - trinity
+      - unity-of-god
+  
+  - section_id: summa_1_32
+    topics:
+      - trinity
+      - divine-knowledge
+  
+  - section_id: summa_1_33
+    topics:
+      - trinity-persons
+  
+  - section_id: summa_1_34
+    topics:
+      - trinity-persons
+  
+  - section_id: summa_1_35
+    topics:
+      - trinity-persons
+      - image-of-god
+  
+  - section_id: summa_1_36
+    topics:
+      - trinity-persons
+  
+  - section_id: summa_1_37
+    topics:
+      - trinity-persons
+      - divine-love
+  
+  - section_id: summa_1_38
+    topics:
+      - trinity-persons
+  
+  - section_id: summa_1_39
+    topics:
+      - trinity
+      - unity-of-god
+  
+  - section_id: summa_1_40
+    topics:
+      - trinity
+      - trinity-relations
+  
+  - section_id: summa_1_41
+    topics:
+      - trinity
+      - trinity-relations
+  
+  - section_id: summa_1_42
+    topics:
+      - trinity
+      - trinity-persons
+  
+  - section_id: summa_1_43
+    topics:
+      - trinity-missions
+      - trinity
+  
+  # Questions 44-49: Creation
+  - section_id: summa_1_44
+    topics:
+      - creation
+      - divine-providence
+  
+  - section_id: summa_1_45
+    topics:
+      - creation
+      - creation-ex-nihilo
+  
+  - section_id: summa_1_46
+    topics:
+      - creation
+      - creation-time
+  
+  - section_id: summa_1_47
+    topics:
+      - creation
+  
+  - section_id: summa_1_48
+    topics:
+      - creation
+  
+  - section_id: summa_1_49
+    topics:
+      - cause-of-evil
+  
+  # Questions 50-64: Angels
+  - section_id: summa_1_50
+    topics:
+      - nature-of-angels
+      - angelic-substance
+  
+  - section_id: summa_1_51
+    topics:
+      - nature-of-angels
+      - angels-and-bodies
+  
+  - section_id: summa_1_52
+    topics:
+      - nature-of-angels
+      - angels-and-place
+  
+  - section_id: summa_1_53
+    topics:
+      - nature-of-angels
+      - angelic-movement
+  
+  - section_id: summa_1_54
+    topics:
+      - angelic-knowledge
+  
+  - section_id: summa_1_55
+    topics:
+      - angelic-knowledge
+      - angelic-mode-of-knowing
+  
+  - section_id: summa_1_56
+    topics:
+      - angelic-knowledge
+      - angelic-knowledge-of-immaterial
+  
+  - section_id: summa_1_57
+    topics:
+      - angelic-knowledge
+      - angelic-knowledge-of-material
+  
+  - section_id: summa_1_58
+    topics:
+      - angelic-knowledge
+      - angelic-mode-of-knowing
+  
+  - section_id: summa_1_59
+    topics:
+      - angelic-will
+      - angels-willing
+  
+  - section_id: summa_1_60
+    topics:
+      - angelic-will
+      - angelic-love
+  
+  - section_id: summa_1_61
+    topics:
+      - angelic-production
+      - angels-in-natural-being
+  
+  - section_id: summa_1_62
+    topics:
+      - angelic-production
+      - angels-in-grace
+  
+  - section_id: summa_1_63
+    topics:
+      - fallen-angels
+      - angelic-sin
+  
+  - section_id: summa_1_64
+    topics:
+      - fallen-angels
+      - demonic-punishment
+  
+  # Questions 65-74: Six Days of Creation
+  - section_id: summa_1_65
+    topics:
+      - six-days-of-creation
+      - corporeal-creatures
+  
+  - section_id: summa_1_66
+    topics:
+      - six-days-of-creation
+      - work-of-distinction
+  
+  - section_id: summa_1_67
+    topics:
+      - six-days-of-creation
+      - work-of-distinction
+  
+  - section_id: summa_1_68
+    topics:
+      - six-days-of-creation
+      - work-of-distinction
+  
+  - section_id: summa_1_69
+    topics:
+      - six-days-of-creation
+      - work-of-distinction
+  
+  - section_id: summa_1_70
+    topics:
+      - six-days-of-creation
+      - work-of-adornment
+  
+  - section_id: summa_1_71
+    topics:
+      - six-days-of-creation
+      - work-of-adornment
+  
+  - section_id: summa_1_72
+    topics:
+      - six-days-of-creation
+      - work-of-adornment
+  
+  - section_id: summa_1_73
+    topics:
+      - six-days-of-creation
+      - seventh-day
+  
+  - section_id: summa_1_74
+    topics:
+      - six-days-of-creation
+  
+  # Questions 75-102: Human Nature
+  - section_id: summa_1_75
+    topics:
+      - creation-of-humanity
+      - soul-and-body
+  
+  - section_id: summa_1_76
+    topics:
+      - soul-and-body
+  
+  - section_id: summa_1_77
+    topics:
+      - soul-and-body
+      - human-faculties
+  
+  - section_id: summa_1_78
+    topics:
+      - human-faculties
+  
+  - section_id: summa_1_79
+    topics:
+      - human-faculties
+  
+  - section_id: summa_1_80
+    topics:
+      - human-faculties
+  
+  - section_id: summa_1_81
+    topics:
+      - human-faculties
+  
+  - section_id: summa_1_82
+    topics:
+      - human-faculties
+      - free-will
+  
+  - section_id: summa_1_83
+    topics:
+      - free-will
+      - free-will-before-fall
+  
+  - section_id: summa_1_84
+    topics:
+      - human-faculties
+  
+  - section_id: summa_1_85
+    topics:
+      - human-faculties
+  
+  - section_id: summa_1_86
+    topics:
+      - human-faculties
+  
+  - section_id: summa_1_87
+    topics:
+      - human-faculties
+  
+  - section_id: summa_1_88
+    topics:
+      - human-faculties
+      - divine-knowledge
+  
+  - section_id: summa_1_89
+    topics:
+      - human-faculties
+      - intermediate-state
+  
+  - section_id: summa_1_90
+    topics:
+      - creation-of-humanity
+      - soul-and-body
+  
+  - section_id: summa_1_91
+    topics:
+      - creation-of-humanity
+      - soul-and-body
+  
+  - section_id: summa_1_92
+    topics:
+      - creation-of-humanity
+  
+  - section_id: summa_1_93
+    topics:
+      - creation-of-humanity
+      - image-of-god
+  
+  - section_id: summa_1_94
+    topics:
+      - original-righteousness
+      - state-of-innocence
+      - human-faculties
+  
+  - section_id: summa_1_95
+    topics:
+      - original-righteousness
+      - state-of-innocence
+      - grace
+  
+  - section_id: summa_1_96
+    topics:
+      - original-righteousness
+      - state-of-innocence
+  
+  - section_id: summa_1_97
+    topics:
+      - original-righteousness
+      - state-of-innocence
+  
+  - section_id: summa_1_98
+    topics:
+      - original-righteousness
+      - state-of-innocence
+  
+  - section_id: summa_1_99
+    topics:
+      - original-righteousness
+      - state-of-innocence
+  
+  - section_id: summa_1_100
+    topics:
+      - original-righteousness
+      - state-of-innocence
+  
+  - section_id: summa_1_101
+    topics:
+      - original-righteousness
+      - state-of-innocence
+  
+  - section_id: summa_1_102
+    topics:
+      - original-righteousness
+      - paradise
+  
+  # Questions 103-119: Divine Government
+  - section_id: summa_1_103
+    topics:
+      - divine-providence
+      - divine-government
+  
+  - section_id: summa_1_104
+    topics:
+      - divine-providence
+      - divine-government
+  
+  - section_id: summa_1_105
+    topics:
+      - divine-providence
+      - miracles
+  
+  - section_id: summa_1_106
+    topics:
+      - divine-providence
+      - divine-concurrence
+  
+  - section_id: summa_1_107
+    topics:
+      - angelic-operations
+      - angelic-speech
+  
+  - section_id: summa_1_108
+    topics:
+      - angelic-hierarchy
+      - angelic-orders
+  
+  - section_id: summa_1_109
+    topics:
+      - angelic-hierarchy
+      - ordering-of-bad-angels
+  
+  - section_id: summa_1_110
+    topics:
+      - angelic-operations
+      - angels-on-bodies
+  
+  - section_id: summa_1_111
+    topics:
+      - angelic-operations
+      - angels-on-humans
+  
+  - section_id: summa_1_112
+    topics:
+      - angelic-operations
+      - angelic-missions
+  
+  - section_id: summa_1_113
+    topics:
+      - good-angels
+      - guardian-angels
+  
+  - section_id: summa_1_114
+    topics:
+      - fallen-angels
+      - demonic-assaults
+  
+  - section_id: summa_1_115
+    topics:
+      - corporeal-action
+      - divine-providence
+  
+  - section_id: summa_1_116
+    topics:
+      - fate
+      - divine-providence
+  
+  - section_id: summa_1_117
+    topics:
+      - human-action
+      - divine-providence
+  
+  - section_id: summa_1_118
+    topics:
+      - creation-of-humanity
+      - soul-and-body
+  
+  - section_id: summa_1_119
+    topics:
+      - creation-of-humanity
+      - soul-and-body
