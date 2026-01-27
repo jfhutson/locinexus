@@ -2124,3 +2124,1716 @@ works:
               - site: CCEL
                 language: en
                 url: https://www.ccel.org/a/aquinas/summa/FS/FS114.html#FSQ114OUTP1
+      - type: part
+        id: summa_2_2
+        number: 3
+        subtitle: "Second Part of the Second Part"
+        title:
+          en: "Second Part of the Second Part"
+          la: "Secunda Secundae"
+        links:
+          - site: CCEL
+            language: en
+            url: https://www.ccel.org/a/aquinas/summa/SS.html
+        children:
+          - type: question
+            id: summa_2_2_1
+            number: 1
+            title:
+              en: "Of Faith"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS001.html#SSQ1OUTP1
+          - type: question
+            id: summa_2_2_2
+            number: 2
+            title:
+              en: "Of the Act of Faith"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS002.html#SSQ2OUTP1
+          - type: question
+            id: summa_2_2_3
+            number: 3
+            title:
+              en: "Of the Outward Act of Faith"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS003.html#SSQ3OUTP1
+          - type: question
+            id: summa_2_2_4
+            number: 4
+            title:
+              en: "Of the Virtue Itself of Faith"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS004.html#SSQ4OUTP1
+          - type: question
+            id: summa_2_2_5
+            number: 5
+            title:
+              en: "Of Those Who Have Faith"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS005.html#SSQ5OUTP1
+          - type: question
+            id: summa_2_2_6
+            number: 6
+            title:
+              en: "Of the Cause of Faith"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS006.html#SSQ6OUTP1
+          - type: question
+            id: summa_2_2_7
+            number: 7
+            title:
+              en: "Of the Effects of Faith"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS007.html#SSQ7OUTP1
+          - type: question
+            id: summa_2_2_8
+            number: 8
+            title:
+              en: "Of the Gift of Understanding"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS008.html#SSQ8OUTP1
+          - type: question
+            id: summa_2_2_9
+            number: 9
+            title:
+              en: "Of the Gift of Knowledge"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS009.html#SSQ9OUTP1
+          - type: question
+            id: summa_2_2_10
+            number: 10
+            title:
+              en: "Of Unbelief in General"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS010.html#SSQ10OUTP1
+          - type: question
+            id: summa_2_2_11
+            number: 11
+            title:
+              en: "Of Heresy"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS011.html#SSQ11OUTP1
+          - type: question
+            id: summa_2_2_12
+            number: 12
+            title:
+              en: "Of Apostasy"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS012.html#SSQ12OUTP1
+          - type: question
+            id: summa_2_2_13
+            number: 13
+            title:
+              en: "Of the Sin of Blasphemy, in General"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS013.html#SSQ13OUTP1
+          - type: question
+            id: summa_2_2_14
+            number: 14
+            title:
+              en: "Of Blasphemy Against the Holy Ghost"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS014.html#SSQ14OUTP1
+          - type: question
+            id: summa_2_2_15
+            number: 15
+            title:
+              en: "Of the Vices Opposed to Knowledge and Understanding"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS015.html#SSQ15OUTP1
+          - type: question
+            id: summa_2_2_16
+            number: 16
+            title:
+              en: "Of the Precepts of Faith, Knowledge, and Understanding"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS016.html#SSQ16OUTP1
+          - type: question
+            id: summa_2_2_17
+            number: 17
+            title:
+              en: "Of Hope, Considered in Itself"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS017.html#SSQ17OUTP1
+          - type: question
+            id: summa_2_2_18
+            number: 18
+            title:
+              en: "Of the Subject of Hope"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS018.html#SSQ18OUTP1
+          - type: question
+            id: summa_2_2_19
+            number: 19
+            title:
+              en: "Of the Gift of Fear"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS019.html#SSQ19OUTP1
+          - type: question
+            id: summa_2_2_20
+            number: 20
+            title:
+              en: "Of Despair"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS020.html#SSQ20OUTP1
+          - type: question
+            id: summa_2_2_21
+            number: 21
+            title:
+              en: "Of Presumption"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS021.html#SSQ21OUTP1
+          - type: question
+            id: summa_2_2_22
+            number: 22
+            title:
+              en: "Of the Precepts Relating to Hope and Fear"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS022.html#SSQ22OUTP1
+          - type: question
+            id: summa_2_2_23
+            number: 23
+            title:
+              en: "Of Charity, Considered in Itself"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS023.html#SSQ23OUTP1
+          - type: question
+            id: summa_2_2_24
+            number: 24
+            title:
+              en: "Of the Subject of Charity"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS024.html#SSQ24OUTP1
+          - type: question
+            id: summa_2_2_25
+            number: 25
+            title:
+              en: "Of the Object of Charity"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS025.html#SSQ25OUTP1
+          - type: question
+            id: summa_2_2_26
+            number: 26
+            title:
+              en: "Of the Order of Charity"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS026.html#SSQ26OUTP1
+          - type: question
+            id: summa_2_2_27
+            number: 27
+            title:
+              en: "Of the Principal Act of Charity, Which Is to Love"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS027.html#SSQ27OUTP1
+          - type: question
+            id: summa_2_2_28
+            number: 28
+            title:
+              en: "Of Joy"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS028.html#SSQ28OUTP1
+          - type: question
+            id: summa_2_2_29
+            number: 29
+            title:
+              en: "Of Peace"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS029.html#SSQ29OUTP1
+          - type: question
+            id: summa_2_2_30
+            number: 30
+            title:
+              en: "Of Mercy"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS030.html#SSQ30OUTP1
+          - type: question
+            id: summa_2_2_31
+            number: 31
+            title:
+              en: "Of Beneficence"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS031.html#SSQ31OUTP1
+          - type: question
+            id: summa_2_2_32
+            number: 32
+            title:
+              en: "Of Almsdeeds"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS032.html#SSQ32OUTP1
+          - type: question
+            id: summa_2_2_33
+            number: 33
+            title:
+              en: "Of Fraternal Correction"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS033.html#SSQ33OUTP1
+          - type: question
+            id: summa_2_2_34
+            number: 34
+            title:
+              en: "Of Hatred"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS034.html#SSQ34OUTP1
+          - type: question
+            id: summa_2_2_35
+            number: 35
+            title:
+              en: "Of Sloth"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS035.html#SSQ35OUTP1
+          - type: question
+            id: summa_2_2_36
+            number: 36
+            title:
+              en: "Of Envy"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS036.html#SSQ36OUTP1
+          - type: question
+            id: summa_2_2_37
+            number: 37
+            title:
+              en: "Of Discord"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS037.html#SSQ37OUTP1
+          - type: question
+            id: summa_2_2_38
+            number: 38
+            title:
+              en: "Of Contention"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS038.html#SSQ38OUTP1
+          - type: question
+            id: summa_2_2_39
+            number: 39
+            title:
+              en: "Of Schism"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS039.html#SSQ39OUTP1
+          - type: question
+            id: summa_2_2_40
+            number: 40
+            title:
+              en: "Of War"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS040.html#SSQ40OUTP1
+          - type: question
+            id: summa_2_2_41
+            number: 41
+            title:
+              en: "Of Strife"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS041.html#SSQ41OUTP1
+          - type: question
+            id: summa_2_2_42
+            number: 42
+            title:
+              en: "Of Sedition"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS042.html#SSQ42OUTP1
+          - type: question
+            id: summa_2_2_43
+            number: 43
+            title:
+              en: "Of Scandal"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS043.html#SSQ43OUTP1
+          - type: question
+            id: summa_2_2_44
+            number: 44
+            title:
+              en: "Of the Precepts of Charity"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS044.html#SSQ44OUTP1
+          - type: question
+            id: summa_2_2_45
+            number: 45
+            title:
+              en: "Of the Gift of Wisdom"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS045.html#SSQ45OUTP1
+          - type: question
+            id: summa_2_2_46
+            number: 46
+            title:
+              en: "Of Folly Which Is Opposed to Wisdom"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS046.html#SSQ46OUTP1
+          - type: question
+            id: summa_2_2_47
+            number: 47
+            title:
+              en: "Of Prudence, Considered in Itself"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS047.html#SSQ47OUTP1
+          - type: question
+            id: summa_2_2_48
+            number: 48
+            title:
+              en: "Of the Parts of Prudence"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS048.html#SSQ48OUTP1
+          - type: question
+            id: summa_2_2_49
+            number: 49
+            title:
+              en: "Of Each Quasi-Integral Part of Prudence"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS049.html#SSQ49OUTP1
+          - type: question
+            id: summa_2_2_50
+            number: 50
+            title:
+              en: "Of the Subjective Parts of Prudence"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS050.html#SSQ50OUTP1
+          - type: question
+            id: summa_2_2_51
+            number: 51
+            title:
+              en: "Of the Virtues Which Are Connected with Prudence"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS051.html#SSQ51OUTP1
+          - type: question
+            id: summa_2_2_52
+            number: 52
+            title:
+              en: "Of the Gift of Counsel"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS052.html#SSQ52OUTP1
+          - type: question
+            id: summa_2_2_53
+            number: 53
+            title:
+              en: "Of Imprudence"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS053.html#SSQ53OUTP1
+          - type: question
+            id: summa_2_2_54
+            number: 54
+            title:
+              en: "Of Negligence"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS054.html#SSQ54OUTP1
+          - type: question
+            id: summa_2_2_55
+            number: 55
+            title:
+              en: "Of Vices Opposed to Prudence by Way of Resemblance"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS055.html#SSQ55OUTP1
+          - type: question
+            id: summa_2_2_56
+            number: 56
+            title:
+              en: "Of the Precepts Relating to Prudence"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS056.html#SSQ56OUTP1
+          - type: question
+            id: summa_2_2_57
+            number: 57
+            title:
+              en: "Of Right"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS057.html#SSQ57OUTP1
+          - type: question
+            id: summa_2_2_58
+            number: 58
+            title:
+              en: "Of Justice"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS058.html#SSQ58OUTP1
+          - type: question
+            id: summa_2_2_59
+            number: 59
+            title:
+              en: "Of Injustice"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS059.html#SSQ59OUTP1
+          - type: question
+            id: summa_2_2_60
+            number: 60
+            title:
+              en: "Of Judgment"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS060.html#SSQ60OUTP1
+          - type: question
+            id: summa_2_2_61
+            number: 61
+            title:
+              en: "Of the Parts of Justice"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS061.html#SSQ61OUTP1
+          - type: question
+            id: summa_2_2_62
+            number: 62
+            title:
+              en: "Of Restitution"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS062.html#SSQ62OUTP1
+          - type: question
+            id: summa_2_2_63
+            number: 63
+            title:
+              en: "Of Respect of Persons"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS063.html#SSQ63OUTP1
+          - type: question
+            id: summa_2_2_64
+            number: 64
+            title:
+              en: "Of Murder"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS064.html#SSQ64OUTP1
+          - type: question
+            id: summa_2_2_65
+            number: 65
+            title:
+              en: "Of Other Injuries Committed on the Person"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS065.html#SSQ65OUTP1
+          - type: question
+            id: summa_2_2_66
+            number: 66
+            title:
+              en: "Of Theft and Robbery"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS066.html#SSQ66OUTP1
+          - type: question
+            id: summa_2_2_67
+            number: 67
+            title:
+              en: "Of the Injustice of a Judge, in Judging"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS067.html#SSQ67OUTP1
+          - type: question
+            id: summa_2_2_68
+            number: 68
+            title:
+              en: "Of Matters Concerning Unjust Accusation"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS068.html#SSQ68OUTP1
+          - type: question
+            id: summa_2_2_69
+            number: 69
+            title:
+              en: "Of Sins Committed Against Justice on the Part of the Defendant"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS069.html#SSQ69OUTP1
+          - type: question
+            id: summa_2_2_70
+            number: 70
+            title:
+              en: "Of Injustice with Regard to the Person of the Witness"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS070.html#SSQ70OUTP1
+          - type: question
+            id: summa_2_2_71
+            number: 71
+            title:
+              en: "Of Injustice in Judgment on the Part of Counsel"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS071.html#SSQ71OUTP1
+          - type: question
+            id: summa_2_2_72
+            number: 72
+            title:
+              en: "Of Reviling"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS072.html#SSQ72OUTP1
+          - type: question
+            id: summa_2_2_73
+            number: 73
+            title:
+              en: "Of Backbiting"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS073.html#SSQ73OUTP1
+          - type: question
+            id: summa_2_2_74
+            number: 74
+            title:
+              en: "Of Tale-Bearing"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS074.html#SSQ74OUTP1
+          - type: question
+            id: summa_2_2_75
+            number: 75
+            title:
+              en: "Of Derision"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS075.html#SSQ75OUTP1
+          - type: question
+            id: summa_2_2_76
+            number: 76
+            title:
+              en: "Of Cursing"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS076.html#SSQ76OUTP1
+          - type: question
+            id: summa_2_2_77
+            number: 77
+            title:
+              en: "Of Cheating, Which Is Committed in Buying and Selling"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS077.html#SSQ77OUTP1
+          - type: question
+            id: summa_2_2_78
+            number: 78
+            title:
+              en: "Of the Sin of Usury"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS078.html#SSQ78OUTP1
+          - type: question
+            id: summa_2_2_79
+            number: 79
+            title:
+              en: "Of the Quasi-Integral Parts of Justice"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS079.html#SSQ79OUTP1
+          - type: question
+            id: summa_2_2_80
+            number: 80
+            title:
+              en: "Of the Potential Parts of Justice"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS080.html#SSQ80OUTP1
+          - type: question
+            id: summa_2_2_81
+            number: 81
+            title:
+              en: "Of the Virtue of Religion"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS081.html#SSQ81OUTP1
+          - type: question
+            id: summa_2_2_82
+            number: 82
+            title:
+              en: "Of Devotion"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS082.html#SSQ82OUTP1
+          - type: question
+            id: summa_2_2_83
+            number: 83
+            title:
+              en: "Of Prayer"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS083.html#SSQ83OUTP1
+          - type: question
+            id: summa_2_2_84
+            number: 84
+            title:
+              en: "Of Adoration"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS084.html#SSQ84OUTP1
+          - type: question
+            id: summa_2_2_85
+            number: 85
+            title:
+              en: "Of Sacrifice"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS085.html#SSQ85OUTP1
+          - type: question
+            id: summa_2_2_86
+            number: 86
+            title:
+              en: "Of Oblations and First-Fruits"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS086.html#SSQ86OUTP1
+          - type: question
+            id: summa_2_2_87
+            number: 87
+            title:
+              en: "Of Tithes"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS087.html#SSQ87OUTP1
+          - type: question
+            id: summa_2_2_88
+            number: 88
+            title:
+              en: "Of Vows"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS088.html#SSQ88OUTP1
+          - type: question
+            id: summa_2_2_89
+            number: 89
+            title:
+              en: "Of Oaths"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS089.html#SSQ89OUTP1
+          - type: question
+            id: summa_2_2_90
+            number: 90
+            title:
+              en: "Of the Taking of God's Name by Way of Adjuration"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS090.html#SSQ90OUTP1
+          - type: question
+            id: summa_2_2_91
+            number: 91
+            title:
+              en: "Of the Necessity of Taking an Oath"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS091.html#SSQ91OUTP1
+          - type: question
+            id: summa_2_2_92
+            number: 92
+            title:
+              en: "Of Superstition"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS092.html#SSQ92OUTP1
+          - type: question
+            id: summa_2_2_93
+            number: 93
+            title:
+              en: "Of Superstition Consisting in Undue Worship of the True God"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS093.html#SSQ93OUTP1
+          - type: question
+            id: summa_2_2_94
+            number: 94
+            title:
+              en: "Of Idolatry"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS094.html#SSQ94OUTP1
+          - type: question
+            id: summa_2_2_95
+            number: 95
+            title:
+              en: "Of Superstition in Divinations"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS095.html#SSQ95OUTP1
+          - type: question
+            id: summa_2_2_96
+            number: 96
+            title:
+              en: "Of Superstition in Observances"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS096.html#SSQ96OUTP1
+          - type: question
+            id: summa_2_2_97
+            number: 97
+            title:
+              en: "Of the Tempting of God"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS097.html#SSQ97OUTP1
+          - type: question
+            id: summa_2_2_98
+            number: 98
+            title:
+              en: "Of Perjury"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS098.html#SSQ98OUTP1
+          - type: question
+            id: summa_2_2_99
+            number: 99
+            title:
+              en: "Of Sacrilege"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS099.html#SSQ99OUTP1
+          - type: question
+            id: summa_2_2_100
+            number: 100
+            title:
+              en: "Of Simony"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS100.html#SSQ100OUTP1
+          - type: question
+            id: summa_2_2_101
+            number: 101
+            title:
+              en: "Of Piety"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS101.html#SSQ101OUTP1
+          - type: question
+            id: summa_2_2_102
+            number: 102
+            title:
+              en: "Of Observance, Considered in Itself, and of Its Parts"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS102.html#SSQ102OUTP1
+          - type: question
+            id: summa_2_2_103
+            number: 103
+            title:
+              en: "Of Dulia"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS103.html#SSQ103OUTP1
+          - type: question
+            id: summa_2_2_104
+            number: 104
+            title:
+              en: "Of Obedience"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS104.html#SSQ104OUTP1
+          - type: question
+            id: summa_2_2_105
+            number: 105
+            title:
+              en: "Of Disobedience"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS105.html#SSQ105OUTP1
+          - type: question
+            id: summa_2_2_106
+            number: 106
+            title:
+              en: "Of Thankfulness or Gratitude"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS106.html#SSQ106OUTP1
+          - type: question
+            id: summa_2_2_107
+            number: 107
+            title:
+              en: "Of Ingratitude"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS107.html#SSQ107OUTP1
+          - type: question
+            id: summa_2_2_108
+            number: 108
+            title:
+              en: "Of Vengeance"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS108.html#SSQ108OUTP1
+          - type: question
+            id: summa_2_2_109
+            number: 109
+            title:
+              en: "Of Truth"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS109.html#SSQ109OUTP1
+          - type: question
+            id: summa_2_2_110
+            number: 110
+            title:
+              en: "Of the Vices Opposed to Truth, and First of Lying"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS110.html#SSQ110OUTP1
+          - type: question
+            id: summa_2_2_111
+            number: 111
+            title:
+              en: "Of Dissimulation and Hypocrisy"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS111.html#SSQ111OUTP1
+          - type: question
+            id: summa_2_2_112
+            number: 112
+            title:
+              en: "Of Boasting"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS112.html#SSQ112OUTP1
+          - type: question
+            id: summa_2_2_113
+            number: 113
+            title:
+              en: "Of Irony"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS113.html#SSQ113OUTP1
+          - type: question
+            id: summa_2_2_114
+            number: 114
+            title:
+              en: "Of the Manner in Which One Ought to Communicate with One's Neighbors"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS114.html#SSQ114OUTP1
+          - type: question
+            id: summa_2_2_115
+            number: 115
+            title:
+              en: "Of Flattery"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS115.html#SSQ115OUTP1
+          - type: question
+            id: summa_2_2_116
+            number: 116
+            title:
+              en: "Of Quarreling"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS116.html#SSQ116OUTP1
+          - type: question
+            id: summa_2_2_117
+            number: 117
+            title:
+              en: "Of Liberality"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS117.html#SSQ117OUTP1
+          - type: question
+            id: summa_2_2_118
+            number: 118
+            title:
+              en: "Of the Vices Opposed to Liberality, and in the First Place, of Covetousness"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS118.html#SSQ118OUTP1
+          - type: question
+            id: summa_2_2_119
+            number: 119
+            title:
+              en: "Of Prodigality"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS119.html#SSQ119OUTP1
+          - type: question
+            id: summa_2_2_120
+            number: 120
+            title:
+              en: "Of Epikeia or Equity"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS120.html#SSQ120OUTP1
+          - type: question
+            id: summa_2_2_121
+            number: 121
+            title:
+              en: "Of Gift"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS121.html#SSQ121OUTP1
+          - type: question
+            id: summa_2_2_122
+            number: 122
+            title:
+              en: "Of the Precepts of Justice"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS122.html#SSQ122OUTP1
+          - type: question
+            id: summa_2_2_123
+            number: 123
+            title:
+              en: "Of Fortitude"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS123.html#SSQ123OUTP1
+          - type: question
+            id: summa_2_2_124
+            number: 124
+            title:
+              en: "Of Martyrdom"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS124.html#SSQ124OUTP1
+          - type: question
+            id: summa_2_2_125
+            number: 125
+            title:
+              en: "Of Fear"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS125.html#SSQ125OUTP1
+          - type: question
+            id: summa_2_2_126
+            number: 126
+            title:
+              en: "Of Fearlessness"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS126.html#SSQ126OUTP1
+          - type: question
+            id: summa_2_2_127
+            number: 127
+            title:
+              en: "Of Daring"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS127.html#SSQ127OUTP1
+          - type: question
+            id: summa_2_2_128
+            number: 128
+            title:
+              en: "Of the Parts of Fortitude"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS128.html#SSQ128OUTP1
+          - type: question
+            id: summa_2_2_129
+            number: 129
+            title:
+              en: "Of Magnanimity"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS129.html#SSQ129OUTP1
+          - type: question
+            id: summa_2_2_130
+            number: 130
+            title:
+              en: "Of Presumption"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS130.html#SSQ130OUTP1
+          - type: question
+            id: summa_2_2_131
+            number: 131
+            title:
+              en: "Of Ambition"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS131.html#SSQ131OUTP1
+          - type: question
+            id: summa_2_2_132
+            number: 132
+            title:
+              en: "Of Vainglory"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS132.html#SSQ132OUTP1
+          - type: question
+            id: summa_2_2_133
+            number: 133
+            title:
+              en: "Of Pusillanimity"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS133.html#SSQ133OUTP1
+          - type: question
+            id: summa_2_2_134
+            number: 134
+            title:
+              en: "Of Magnificence"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS134.html#SSQ134OUTP1
+          - type: question
+            id: summa_2_2_135
+            number: 135
+            title:
+              en: "Of Meanness"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS135.html#SSQ135OUTP1
+          - type: question
+            id: summa_2_2_136
+            number: 136
+            title:
+              en: "Of Patience"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS136.html#SSQ136OUTP1
+          - type: question
+            id: summa_2_2_137
+            number: 137
+            title:
+              en: "Of Perseverance"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS137.html#SSQ137OUTP1
+          - type: question
+            id: summa_2_2_138
+            number: 138
+            title:
+              en: "Of the Vices Opposed to Perseverance"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS138.html#SSQ138OUTP1
+          - type: question
+            id: summa_2_2_139
+            number: 139
+            title:
+              en: "Of the Gift of Fortitude"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS139.html#SSQ139OUTP1
+          - type: question
+            id: summa_2_2_140
+            number: 140
+            title:
+              en: "Of the Precepts of Fortitude"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS140.html#SSQ140OUTP1
+          - type: question
+            id: summa_2_2_141
+            number: 141
+            title:
+              en: "Of Temperance"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS141.html#SSQ141OUTP1
+          - type: question
+            id: summa_2_2_142
+            number: 142
+            title:
+              en: "Of the Vices Opposed to Temperance"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS142.html#SSQ142OUTP1
+          - type: question
+            id: summa_2_2_143
+            number: 143
+            title:
+              en: "Of the Parts of Temperance, in General"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS143.html#SSQ143OUTP1
+          - type: question
+            id: summa_2_2_144
+            number: 144
+            title:
+              en: "Of Shamefacedness"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS144.html#SSQ144OUTP1
+          - type: question
+            id: summa_2_2_145
+            number: 145
+            title:
+              en: "Of Honesty"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS145.html#SSQ145OUTP1
+          - type: question
+            id: summa_2_2_146
+            number: 146
+            title:
+              en: "Of Abstinence"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS146.html#SSQ146OUTP1
+          - type: question
+            id: summa_2_2_147
+            number: 147
+            title:
+              en: "Of Fasting"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS147.html#SSQ147OUTP1
+          - type: question
+            id: summa_2_2_148
+            number: 148
+            title:
+              en: "Of Gluttony"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS148.html#SSQ148OUTP1
+          - type: question
+            id: summa_2_2_149
+            number: 149
+            title:
+              en: "Of the Sins Connected with Gluttony"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS149.html#SSQ149OUTP1
+          - type: question
+            id: summa_2_2_150
+            number: 150
+            title:
+              en: "Of Drunkenness"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS150.html#SSQ150OUTP1
+          - type: question
+            id: summa_2_2_151
+            number: 151
+            title:
+              en: "Of Chastity"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS151.html#SSQ151OUTP1
+          - type: question
+            id: summa_2_2_152
+            number: 152
+            title:
+              en: "Of Virginity"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS152.html#SSQ152OUTP1
+          - type: question
+            id: summa_2_2_153
+            number: 153
+            title:
+              en: "Of Lust"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS153.html#SSQ153OUTP1
+          - type: question
+            id: summa_2_2_154
+            number: 154
+            title:
+              en: "Of the Parts of Lust"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS154.html#SSQ154OUTP1
+          - type: question
+            id: summa_2_2_155
+            number: 155
+            title:
+              en: "Of Adultery"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS155.html#SSQ155OUTP1
+          - type: question
+            id: summa_2_2_156
+            number: 156
+            title:
+              en: "Of Seduction"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS156.html#SSQ156OUTP1
+          - type: question
+            id: summa_2_2_157
+            number: 157
+            title:
+              en: "Of Rape"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS157.html#SSQ157OUTP1
+          - type: question
+            id: summa_2_2_158
+            number: 158
+            title:
+              en: "Of Nocturnal Pollution"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS158.html#SSQ158OUTP1
+          - type: question
+            id: summa_2_2_159
+            number: 159
+            title:
+              en: "Of the Unnatural Vice"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS159.html#SSQ159OUTP1
+          - type: question
+            id: summa_2_2_160
+            number: 160
+            title:
+              en: "Of Sobriety"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS160.html#SSQ160OUTP1
+          - type: question
+            id: summa_2_2_161
+            number: 161
+            title:
+              en: "Of Modesty"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS161.html#SSQ161OUTP1
+          - type: question
+            id: summa_2_2_162
+            number: 162
+            title:
+              en: "Of Pride"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS162.html#SSQ162OUTP1
+          - type: question
+            id: summa_2_2_163
+            number: 163
+            title:
+              en: "Of the Sin of Our First Parents"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS163.html#SSQ163OUTP1
+          - type: question
+            id: summa_2_2_164
+            number: 164
+            title:
+              en: "Of the Punishment of Our First Parents' Sin"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS164.html#SSQ164OUTP1
+          - type: question
+            id: summa_2_2_165
+            number: 165
+            title:
+              en: "Of Our First Parents' Temptation"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS165.html#SSQ165OUTP1
+          - type: question
+            id: summa_2_2_166
+            number: 166
+            title:
+              en: "Of Studiousness"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS166.html#SSQ166OUTP1
+          - type: question
+            id: summa_2_2_167
+            number: 167
+            title:
+              en: "Of Curiosity"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS167.html#SSQ167OUTP1
+          - type: question
+            id: summa_2_2_168
+            number: 168
+            title:
+              en: "Of Modesty As Consisting in the Outward Movements of the Body"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS168.html#SSQ168OUTP1
+          - type: question
+            id: summa_2_2_169
+            number: 169
+            title:
+              en: "Of Modesty in the Outward Apparel"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS169.html#SSQ169OUTP1
+          - type: question
+            id: summa_2_2_170
+            number: 170
+            title:
+              en: "Of the Precepts of Temperance"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS170.html#SSQ170OUTP1
+          - type: question
+            id: summa_2_2_171
+            number: 171
+            title:
+              en: "Of Prophecy"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS171.html#SSQ171OUTP1
+          - type: question
+            id: summa_2_2_172
+            number: 172
+            title:
+              en: "Of the Cause of Prophecy"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS172.html#SSQ172OUTP1
+          - type: question
+            id: summa_2_2_173
+            number: 173
+            title:
+              en: "Of the Manner in Which Prophetic Knowledge Is Conveyed"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS173.html#SSQ173OUTP1
+          - type: question
+            id: summa_2_2_174
+            number: 174
+            title:
+              en: "Of the Division of Prophecy"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS174.html#SSQ174OUTP1
+          - type: question
+            id: summa_2_2_175
+            number: 175
+            title:
+              en: "Of Rapture"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS175.html#SSQ175OUTP1
+          - type: question
+            id: summa_2_2_176
+            number: 176
+            title:
+              en: "Of the Grace of Tongues"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS176.html#SSQ176OUTP1
+          - type: question
+            id: summa_2_2_177
+            number: 177
+            title:
+              en: "Of the Gratuitous Grace Consisting in Words"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS177.html#SSQ177OUTP1
+          - type: question
+            id: summa_2_2_178
+            number: 178
+            title:
+              en: "Of the Grace of Miracles"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS178.html#SSQ178OUTP1
+          - type: question
+            id: summa_2_2_179
+            number: 179
+            title:
+              en: "Of the Division of Life into Active and Contemplative"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS179.html#SSQ179OUTP1
+          - type: question
+            id: summa_2_2_180
+            number: 180
+            title:
+              en: "Of the Contemplative Life"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS180.html#SSQ180OUTP1
+          - type: question
+            id: summa_2_2_181
+            number: 181
+            title:
+              en: "Of the Active Life"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS181.html#SSQ181OUTP1
+          - type: question
+            id: summa_2_2_182
+            number: 182
+            title:
+              en: "Of the Active Life in Comparison with the Contemplative Life"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS182.html#SSQ182OUTP1
+          - type: question
+            id: summa_2_2_183
+            number: 183
+            title:
+              en: "Of Man's Various Duties and States in General"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS183.html#SSQ183OUTP1
+          - type: question
+            id: summa_2_2_184
+            number: 184
+            title:
+              en: "Of the State of Perfection in General"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS184.html#SSQ184OUTP1
+          - type: question
+            id: summa_2_2_185
+            number: 185
+            title:
+              en: "Of Things Pertaining to the Episcopal State"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS185.html#SSQ185OUTP1
+          - type: question
+            id: summa_2_2_186
+            number: 186
+            title:
+              en: "Of Those Things in Which the Religious State Properly Consists"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS186.html#SSQ186OUTP1
+          - type: question
+            id: summa_2_2_187
+            number: 187
+            title:
+              en: "Of Those Things That Are Competent to Religious"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS187.html#SSQ187OUTP1
+          - type: question
+            id: summa_2_2_188
+            number: 188
+            title:
+              en: "Of the Different Kinds of Religious Life"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS188.html#SSQ188OUTP1
+          - type: question
+            id: summa_2_2_189
+            number: 189
+            title:
+              en: "Of the Entrance into Religious Life"
+            links:
+              - site: CCEL
+                language: en
+                url: https://www.ccel.org/a/aquinas/summa/SS/SS189.html#SSQ189OUTP1
