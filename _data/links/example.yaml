@@ -1,0 +1,17 @@
+work: institutes-1559
+
+sites:
+  CCEL:
+    edition: beveridge-1845
+    url_base: https://ccel.org/ccel/calvin/institutes
+    nodes:
+      inst1559_b1_c1: https://ccel.org/ccel/calvin/institutes.i.i.html
+      inst1559_b1_c2: https://ccel.org/ccel/calvin/institutes.i.ii.html
+      inst1559_b1_c3: https://ccel.org/ccel/calvin/institutes.i.iii.html
+
+  AquinasInstitute:
+    edition: battles-1960
+    url_base: https://aquinas.cc/la/en/~ST
+    nodes:
+      inst1559_b1_c1: https://aquinas.cc/la/en/~ST.I
+      inst1559_b1_c2: https://aquinas.cc/la/en/~ST.II
