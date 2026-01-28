@@ -120,9 +120,18 @@ layout: default
 
 .section-header {
   display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+
+.section-number-title {
+  display: flex;
   align-items: baseline;
   gap: 0.5rem;
-  margin-bottom: 0.5rem;
+  flex: 1;
+  min-width: 0;
 }
 
 .section-number {
@@ -135,14 +144,12 @@ layout: default
 .section-title {
   color: #3e2723;
   font-weight: 500;
-  flex: 1;
 }
 
 .section-links {
   display: flex;
   gap: 0.5rem;
   flex-wrap: wrap;
-  margin-bottom: 0.5rem;
 }
 
 .section-link {
@@ -215,7 +222,7 @@ layout: default
 </style>
 
 <div class="work-page">
-  <a href="/topics.html" class="back-link">← Back to Topics Index</a>
+  <a href="{{ '/topics-index.html' | relative_url }}" class="back-link">← Back to Topics Index</a>
   
   <div class="work-header">
     <h1 class="work-title">{{ work_data.title }}</h1>
@@ -237,22 +244,29 @@ layout: default
             {% for child in structure_item.children %}
               <li class="section-item">
                 <div class="section-header">
-                  <span class="section-number">
-                    {% if structure_item.type == "book" %}Book {% endif %}
-                    {{ structure_item.number }}.{{ child.number }}
-                  </span>
-                  <span class="section-title">{{ child.title.en }}</span>
-                </div>
-                
-                {% if child.links %}
-                  <div class="section-links">
-                    {% for link in child.links %}
-                      <a href="{{ link.url }}" class="section-link" target="_blank">
-                        {{ link.site }} ({{ link.language | upcase }})
-                      </a>
-                    {% endfor %}
+                  <div class="section-number-title">
+                    <span class="section-number">
+                      {% if structure_item.type == "book" %}
+                        Book {{ structure_item.number }}, Chapter {{ child.number }}
+                      {% elsif structure_item.type == "part" %}
+                        Part {{ structure_item.number }}, Question {{ child.number }}
+                      {% else %}
+                        {{ structure_item.number }}.{{ child.number }}
+                      {% endif %}
+                    </span>
+                    <span class="section-title">{{ child.title.en }}</span>
                   </div>
-                {% endif %}
+                  
+                  {% if child.links %}
+                    <div class="section-links">
+                      {% for link in child.links %}
+                        <a href="{{ link.url }}" class="section-link" target="_blank">
+                          {{ link.site }} ({{ link.language | upcase }})
+                        </a>
+                      {% endfor %}
+                    </div>
+                  {% endif %}
+                </div>
                 
                 {% comment %} Find topics for this section {% endcomment %}
                 {% if work_topics %}
@@ -272,28 +286,28 @@ layout: default
                           {% assign topic_found = false %}
                           {% for topic1 in site.data.topics_definitions.topics %}
                             {% if topic1.id == topic_id %}
-                              <a href="/topics.html#topic-{{ topic_id }}" class="topic-tag">{{ topic1.name }}</a>
+                              <a href="{{ '/topics-index.html' | relative_url }}#topic-{{ topic_id }}" class="topic-tag">{{ topic1.name }}</a>
                               {% assign topic_found = true %}
                             {% endif %}
                             {% unless topic_found %}
                               {% if topic1.children %}
                                 {% for topic2 in topic1.children %}
                                   {% if topic2.id == topic_id %}
-                                    <a href="/topics.html#topic-{{ topic_id }}" class="topic-tag">{{ topic2.name }}</a>
+                                    <a href="{{ '/topics-index.html' | relative_url }}#topic-{{ topic_id }}" class="topic-tag">{{ topic2.name }}</a>
                                     {% assign topic_found = true %}
                                   {% endif %}
                                   {% unless topic_found %}
                                     {% if topic2.children %}
                                       {% for topic3 in topic2.children %}
                                         {% if topic3.id == topic_id %}
-                                          <a href="/topics.html#topic-{{ topic_id }}" class="topic-tag">{{ topic3.name }}</a>
+                                          <a href="{{ '/topics-index.html' | relative_url }}#topic-{{ topic_id }}" class="topic-tag">{{ topic3.name }}</a>
                                           {% assign topic_found = true %}
                                         {% endif %}
                                         {% unless topic_found %}
                                           {% if topic3.children %}
                                             {% for topic4 in topic3.children %}
                                               {% if topic4.id == topic_id %}
-                                                <a href="/topics.html#topic-{{ topic_id }}" class="topic-tag">{{ topic4.name }}</a>
+                                                <a href="{{ '/topics-index.html' | relative_url }}#topic-{{ topic_id }}" class="topic-tag">{{ topic4.name }}</a>
                                                 {% assign topic_found = true %}
                                               {% endif %}
                                             {% endfor %}
