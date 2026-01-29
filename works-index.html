@@ -113,34 +113,32 @@ title: Index of Works
   {% assign all_works = "" | split: "" %}
   
   {% comment %} Access the works folder directly {% endcomment %}
-  {% if site.data.works %}
-    {% for work_entry in site.data.works %}
-      {% assign work_file_name = work_entry[0] %}
-      {% assign work = work_entry[1] %}
-      
-      {% comment %} Get author info {% endcomment %}
-      {% assign author_info = nil %}
-      {% for author in site.data.authors.authors %}
-        {% if author.id == work.author %}
-          {% assign author_info = author %}
-        {% endif %}
-      {% endfor %}
-      
-      {% comment %} Find work page URL {% endcomment %}
-      {% assign work_url = "" %}
-      {% for work_page in site.works %}
-        {% if work_page.work_id == work.id %}
-          {% assign work_url = work_page.url %}
-        {% endif %}
-      {% endfor %}
-      
-      {% comment %} Create work entry {% endcomment %}
-      {% if author_info %}
-        {% capture work_entry_str %}{{ work.year }}|{{ work.title }}|{{ author_info.name.en }}|{{ work_url }}{% endcapture %}
-        {% assign all_works = all_works | push: work_entry_str %}
+  {% for work_entry in site.data.works %}
+    {% assign work_key = work_entry[0] %}
+    {% assign work = work_entry[1] %}
+    
+    {% comment %} Get author info {% endcomment %}
+    {% assign author_info = nil %}
+    {% for author in site.data.authors.authors %}
+      {% if author.id == work.author %}
+        {% assign author_info = author %}
       {% endif %}
     {% endfor %}
-  {% endif %}
+    
+    {% comment %} Find work page URL {% endcomment %}
+    {% assign work_url = "" %}
+    {% for work_page in site.works %}
+      {% if work_page.work_id == work.id %}
+        {% assign work_url = work_page.url %}
+      {% endif %}
+    {% endfor %}
+    
+    {% comment %} Create work entry - only if we have author info {% endcomment %}
+    {% if author_info %}
+      {% capture work_entry_str %}{{ work.year }}|{{ work.title }}|{{ author_info.name.en }}|{{ work_url }}{% endcapture %}
+      {% assign all_works = all_works | push: work_entry_str %}
+    {% endif %}
+  {% endfor %}
   
   {% comment %} Sort by year {% endcomment %}
   {% assign sorted_works = all_works | sort %}
