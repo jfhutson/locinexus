@@ -16,8 +16,7 @@ Parameters: topic_id
     {% assign work_id = file_data.work_id %}
     
     {% comment %} Get work metadata {% endcomment %}
-    {% assign work_file_name = "works/" | append: work_id %}
-    {% assign work = site.data[work_file_name] %}
+    {% assign work = site.data.works[work_id] %}
     
     {% if work %}
       {% comment %} Process assignments {% endcomment %}
@@ -26,8 +25,7 @@ Parameters: topic_id
           {% assign section_id = assignment.section_id %}
           
           {% comment %} Get structure info to find parent and ordinal {% endcomment %}
-          {% assign structure_file_name = "structures/" | append: work_id %}
-          {% assign structure_data = site.data[structure_file_name] %}
+          {% assign structure_data = site.data.structures[work_id] %}
           
           {% if structure_data %}
             {% for node in structure_data.structure.nodes %}
@@ -45,8 +43,7 @@ Parameters: topic_id
                 
                 {% comment %} Get first link {% endcomment %}
                 {% assign first_link = "" %}
-                {% assign links_file_name = "links/" | append: work_id %}
-                {% assign links_data = site.data[links_file_name] %}
+                {% assign links_data = site.data.links[work_id] %}
                 {% if links_data and links_data.sites %}
                   {% for site_entry in links_data.sites %}
                     {% assign site_name = site_entry[0] %}
