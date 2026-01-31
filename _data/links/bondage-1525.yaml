@@ -1,0 +1,6 @@
+work: bondage-1525
+sites:
+  CCEL:
+    edition: ''
+    url_base: https://www.ccel.org
+    nodes: {}

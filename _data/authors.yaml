@@ -1,16 +1,21 @@
 authors:
-  - id: john-calvin
-    name: 
-      en: John Calvin
-    short_name: Calvin
-    tradition: Reformed
-  - id: vermigli
-    name:
-      en: Peter Martyr Vermigli
-    short_name: Vermigli
-    tradition: Reformed
-  - id: aquinas
-    name:
-      en: Thomas Aquinas
-    short_name: Aquinas
-    tradition: Roman Catholic
+- id: john-calvin
+  name:
+    en: John Calvin
+  short_name: Calvin
+  tradition: Reformed
+- id: vermigli
+  name:
+    en: Peter Martyr Vermigli
+  short_name: Vermigli
+  tradition: Reformed
+- id: aquinas
+  name:
+    en: Thomas Aquinas
+  short_name: Aquinas
+  tradition: Roman Catholic
+- id: luther
+  name:
+    en: Martin Luther
+  short_name: Luther
+  tradition: Lutheran
