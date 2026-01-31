@@ -1,6 +1,6 @@
 title: Theological Syntopticon
 url: "https://jfhutson.github.io"
-baseurl: "/Theological-Syntopticon"
+baseurl: "/locinet"
 collections:
   works:
     output: true
